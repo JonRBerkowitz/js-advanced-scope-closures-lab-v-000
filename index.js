@@ -8,4 +8,3 @@ function produceDrivingRange(blockRange) {
      }
   }
 }
-
